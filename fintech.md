@@ -4,13 +4,13 @@ Inwestycje w popolskie startupy z branży FinTech, które koncentrują się na i
 
 ## Zalety inwestycji w polskie startupy FinTech
 
-1. Wzrost innowacyjności: Startupy takie jak Ripple Labs czy R3 pokazują, że inwestycje w nowe technologie mogą prowadzić do rozwoju innowacyjnych rozwiązań, które zmieniają tradycyjne podejście do finansów (link).
+1. Wzrost innowacyjności: Startupy takie jak Ripple Labs czy R3 pokazują, że inwestycje w nowe technologie mogą prowadzić do rozwoju innowacyjnych rozwiązań, które zmieniają tradycyjne podejście do finansów.
 
-2. Przyciąganie talentów: Współpraca z krakowskimi uniwersytetami i korporacjami IT, może przyczynić się do przyciągnięcia młodych talentów, co z kolei sprzyja rozwojowi lokalnego rynku pracy (link), a także nie zaszkodzi w momencie poszukiwania inwestorów.
+2. Przyciąganie talentów: Współpraca z polskimi politechnikami, uniwersytetami i firmami IT, może przyczynić się do przyciągnięcia młodych talentów, co z kolei sprzyja rozwojowi lokalnego rynku pracy, a także nie zaszkodzi w momencie poszukiwania inwestorów.
 
-3. Wzmocnienie pozycji międzynarodowej: Małopolskie startupy FinTech mogą współpracować z międzynarodowym biznesem, co zwiększa ich widoczność na globalnym rynku (link).
+3. Wzmocnienie pozycji międzynarodowej: Polskie startupy FinTech mogą współpracować z międzynarodowym biznesem, co zwiększa ich widoczność na globalnym rynku.
 
-4. Rozwój społeczności lokalnej: Inwestycje społecznościowe, jak w przypadku startupu dofinansowanego przez sąsiadów, mogą przyczynić się do wzrostu zaangażowania mieszkańców w lokalny rozwój gospodarczy (link).
+4. Rozwój społeczności lokalnej: Inwestycje społecznościowe, jak w przypadku startupu dofinansowanego przez sąsiadów, mogą przyczynić się do wzrostu zaangażowania mieszkańców w lokalny rozwój gospodarczy.
 
 
 ## Blockchain, czyli E=mc2 finansów

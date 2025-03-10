@@ -2,9 +2,7 @@
 
 Zanim przejdziemy do definicji pojęcia "wartości", zastanówmy się najpierw, czym jest kombinat?
 
-Zapewne większości Polaków skojarzy się z zespołem zakładów przemysłowych, rodem z PRL, jednak jest spora szansa, że przed oczami każdego Małopolanina i Małopolanki, pojawi się kombinat metalurgiczny w Nowej Hucie, największej (licząc z Czyżynami) dzielnicy Krakowa.
-
-Do dawnej potęgi Huty im Sendzimira (dawniej Włodzimierza Lenina) za chwilę wrócimy w kontekście obecnej sytuacji Nowej Huty, tej wspomnianej, niedoinwestowanej dzielnicy Krakowa, która znana jest w całej Polsce i poza jej granicami.
+Zapewne większości Polaków skojarzy się z zespołem zakładów przemysłowych, rodem z PRL, jednak jest spora szansa, że przed oczami każdego Polaka i Polki, pojawi się kombinat metalurgiczny w Nowej Hucie, albo na Śląsku.
 
 ## Czym jest wartość?
 
@@ -12,9 +10,7 @@ Wszystkie formy wartości można podzielić na dwie grupy: policzalne, jak i nie
 
 Każdy z nas przywykł do tego status quo, nie wyobrażając sobie innej możliwości. 
 
-Co gdyby po raz pierwszy w historii była możliwa alternatywa oparta na decentralizacji?
-
-
+Co gdyby po raz pierwszy w historii była możliwa alternatywa oparta o decentralizację?
 
 Witaj w świecie Numizmatyki Cyfrowej
 
