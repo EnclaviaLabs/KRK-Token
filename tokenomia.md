@@ -1,1 +1,1 @@
-Tokenomia KRK Coina to pierwsze tego typu, otwarte zastosowanie technologii rozproszonych rejestrów blockchain w ekonomii samorządowej, na Świecie!
+Tokenomia KRK Tokena to pierwsze tego typu, otwarte zastosowanie technologii rozproszonych rejestrów blockchain w ekonomii samorządowej, na Świecie!

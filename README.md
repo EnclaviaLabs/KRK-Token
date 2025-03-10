@@ -9,7 +9,7 @@ Wszystko, co chcesz wiedzieć o projekcie. Od ogółu, do szczegółu.
 
 KRK Token to pierwsza na Świecie, zdecentralizowana waluta lokalna, której celem jest dowartościowanie mieszkańców małopolskich miast i gmin.
 
-Województwo małopolskie, z jego bogatą historią, kulturą i naturalnym pięknem, jest jednym z najbardziej atrakcyjnych regionów w Polsce (link), a jego perła w koronie, czyli Kraków, to wymarzone miejsce do życia dla wielu, szczególnie młodych, Polaków.
+Województwo małopolskie, z jego bogatą historią, kulturą i naturalnym pięknem, jest jednym z najbardziej atrakcyjnych regionów w Polsce, a jego perła w koronie, czyli Kraków, to wymarzone miejsce do życia dla wielu, szczególnie młodych, Polaków.
 
 
 
